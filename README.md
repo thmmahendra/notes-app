@@ -1,0 +1,1 @@
+This is the Notes App Practice using HTML, CSS and JavaScript. 
